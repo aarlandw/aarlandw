@@ -1,6 +1,5 @@
-# Hi, I'm William Aarland 👋
+![Header](./github-header-banner(2).png)
 
-**M.Sc. student in Cybernetics & Robotics at NTNU**  
 Passionate about **robotics, AI, reinforcement learning (RL), computer vision**, and **autonomous systems**.  
 I’m looking for opportunities to **apply AI and control engineering in hands-on robotics projects**.
 
