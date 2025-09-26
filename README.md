@@ -30,6 +30,13 @@ I’m looking for opportunities to **apply AI and control engineering in hands-o
 ### 🚀 Highlighted Project
 - **[2-D Drone RL Project](https://github.com/aarlandw/IIC3675-Aprendizaje-Reforzado)**  
   Trained an autonomous 2-D drone to **fly to a target using reinforcement learning** and later **navigate with dynamic obstacles**.
+  
+- **[Effect of Background Music Type and Time Awake on Typing Performance](https://github.com/aarlandw/IIQ3402-Statistical-Design-Optimization-Multivariate-Analysis/tree/main/Proyecto%20Semestral)**
+  - Semestral project in *IIQ3402* (UC Chile).
+  - Designed a 3×3 factorial study on music tempo and wake-time effects on typing speed/accuracy.
+  - Built a Django web app to collect data and performed mixed-effects analysis in Python.
+  - [Paper](https://github.com/aarlandw/IIQ3402-Statistical-Design-Optimization-Multivariate-Analysis/blob/main/Proyecto%20Semestral/Effect_of_Background_Music_Type_and_Time_Awake_on_Typing_Performance.pdf) · [Code](https://github.com/aarlandw/IIQ3402-Statistical-Design-Optimization-Multivariate-Analysis/tree/main/Proyecto%20Semestral) · [Typing Website](https://github.com/aarlandw/Typing_Study_Website)
+
 
 ---
 
